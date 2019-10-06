@@ -1,5 +1,9 @@
 # BrainFuck
-Weird programming language. I have written some brainfuck scripts that may be useful in certain cases.
+Weird programming language. 
+Scripts:
+- [x] A-Z -> ALL-LETTERS.b
+- [x] a-z -> all-letters.b
+- [x] 0-9 -> all-numbers.b
 
 ## Convert to ASCII
 Convert your characters to ASCII. Brainfuck prints characters based on their ASCII value.
